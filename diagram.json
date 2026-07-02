@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "author": "Govind G Nair",
+  "author": "Turflex",
   "editor": "wokwi",
   "parts": [
     { "type": "wokwi-arduino-uno", "id": "uno", "top": 0, "left": 0, "attrs": {} },
