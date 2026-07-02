@@ -49,10 +49,3 @@ automatic-street-light-using-ldr/
 - Energy Saving Systems
 - Embedded Systems Learning
 
-## Author
-
-**Govind G Nair**
-
----
-
-Developed using **Arduino Uno** and **Wokwi Simulator**.
